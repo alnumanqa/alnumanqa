@@ -1,6 +1,5 @@
 <div align="center">
-<!--pUT YOUR NAME INSTEAD OF mY name, + represent 1 space  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Md+Abdullah+Al+Numan...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Mohammad+Tofael+Kabir+Sharkar...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
 
 
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
