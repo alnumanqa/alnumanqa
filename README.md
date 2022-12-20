@@ -17,8 +17,7 @@
   <a title = "646-639-6008" href="" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/5-58825_telephone-phone-icon-phone-symbol-png-yellow-transparent.png" alt="Call" height="30" width="40" /></a>
 &nbsp;
 <a title = "alnumanqa@gmail.com" href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
-&nbsp;
-<!-- Use your linkedin account url at href -->
+&nbsp; <!-- Use your linkedin account url at href -->
 <a title = "LinkedIn" href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
 
 <!-- <a href="https://twitter.com/@rasel__official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
