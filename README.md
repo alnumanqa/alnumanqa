@@ -150,7 +150,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
     Portfolio
     </h1>
    <!-- Inside href we will give our profile, also you write your name instead of mine -->
-  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Mohammad Sharkar`</a>
+  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Al Numan`</a>
   <br>
   <!-- <h3 align="center">
     my creation another website 
@@ -192,7 +192,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
  <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg)  -->
 
 <!-- insted of alnumanqa, you use your github username-->
-<img  width="420px" alt="This week I spent my time on" src="https://wakatime.com/share/@alnumanqa/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
+<!-- <img  width="420px" alt="This week I spent my time on" src="https://wakatime.com/share/@alnumanqa/de026aac-1367-42ce-b23e-5d840c3d2fef.svg"> -->
 
 </p>
 
