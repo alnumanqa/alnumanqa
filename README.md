@@ -131,7 +131,7 @@
 
 <div align="center">
 &nbsp;
-<h1 align="center">About Me & My Future Plan</h1>
+<h1 align="center">All About Me</h1>
   
 <!-- <img width="105" height="105" src="" /> -->
 
@@ -151,7 +151,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
     </h1>
    <!-- Inside href we will give our profile, also you write your name instead of mine -->
   `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Mohammad Sharkar`</a>
-  
+  <br>
   <!-- <h3 align="center">
     my creation another website 
     </h2>
@@ -184,7 +184,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 <!-- &nbsp;**This week I spent my time on** -->
 
  <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+<!--   <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" /> -->
 
 <!-- wakatime  -->
 <!--START_SECTION:waka-->
