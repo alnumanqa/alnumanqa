@@ -193,7 +193,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 
 </p>
 
-<!--p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=alnumanqa&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" /-->
+<p align="center">
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=alnumanqa&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=alnumanqa&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
