@@ -181,7 +181,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 
 &nbsp;**This week I spent my time on**
 
- <p align="center">
+ <!--p align="center">
   <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
 
 <!-- wakatime  -->
